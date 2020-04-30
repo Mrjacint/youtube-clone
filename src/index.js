@@ -27,7 +27,7 @@ class App extends React.Component {
 			},
 			comments: []
 		};
-		this.videoSearch('lagoon 410')
+		this.videoSearch('cats')
 	}
 
 	componentDidUpdate(prevProps, prevState) {
@@ -45,7 +45,7 @@ class App extends React.Component {
 				key: API_KEY,
 				q: term,
 				type: 'video',
-				maxResults: 12
+				maxResults: 25
 			}
 		}).then((result) => {
 			this.setState({
