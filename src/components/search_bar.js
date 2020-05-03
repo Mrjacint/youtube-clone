@@ -83,7 +83,7 @@ class SearchBar extends Component {
 									</g>
 								</svg>
 							</div>
-							<span className="country-code">GB</span>
+							<span className="country-code">CLONE</span>
 						</div>
 					</div>
 					<div className="center">
