@@ -7,10 +7,10 @@
     "javascript-time-ago": "^2.0.7",
     "loadash": "^1.0.0",
     "modern-scripts": "2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.25.3",
     "numeral": "^2.0.6",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "scripts": {
     "start": "react-scripts start",
